@@ -10,14 +10,14 @@
   
   body {
       color: #e3a4d4;
-      font-family: Helvetica, Arial, sans-serif;
+      font-family: Georgia;
       background-color: rgb(229, 232, 238);
     }
   
   /* apply styles to <header> */
   header {
       padding: 20px 35px;
-      background-color: #0a2527;
+      background-color: #cefcff;
       display:flex;
       justify-content: space-between;
       flex-wrap: wrap;
@@ -259,7 +259,7 @@ figcaption{
 
 .resume{
   margin: 20px 20px;
-  color: #024e76;
+  color: #abd8f0;
 }
     
  /*Code for media query*/
