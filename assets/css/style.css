@@ -1,5 +1,5 @@
 :root {
-    --primary-color:#1c8591;
+    --primary-color:black;
   }
   
   * {
@@ -9,7 +9,7 @@
     }
   
   body {
-      color: #1c8591;
+      color: #e3a4d4;
       font-family: Helvetica, Arial, sans-serif;
       background-color: rgb(229, 232, 238);
     }
@@ -61,7 +61,7 @@
 /*apply style to hero image*/
 .hero{
     height: 400px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../img/wp6012631.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -346,5 +346,3 @@ figcaption{
         margin-top: -45%;
         font-size: 5px;
     }
-
-  }
